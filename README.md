@@ -9,7 +9,7 @@ Dataset ini terdiri dari video yang diambil dari situs resmi: [PMPK Kemdikbud - 
 Dataset telah diorganisir ke dalam folder berdasarkan nama kata.
 
 ### Detail Data
-- **Jumlah video**: 3368
+- **Jumlah video**: 3362
 - **Format file**: `.webm`
 - **Bahasa isyarat**: Bahasa Isyarat Indonesia (SIBI)
 
