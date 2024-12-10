@@ -1,30 +1,30 @@
 # SIBI Words Videos Dataset
 
-**SIBI Words Videos Dataset** adalah kumpulan video Bahasa Isyarat Indonesia (Sistem Isyarat Bahasa Indonesia) yang merepresentasikan kata-kata dari A-Z. Dataset ini bertujuan untuk membantu penelitian dan pengembangan teknologi berbasis Bahasa Isyarat Indonesia.
+The **SIBI Words Videos Dataset** is a collection of Indonesian Sign Language (Sistem Isyarat Bahasa Indonesia) videos representing words from A to Z. This dataset aims to support research and the development of technology based on Indonesian Sign Language.
 
-## Deskripsi Dataset
-Dataset ini terdiri dari video yang diambil dari situs resmi: [PMPK Kemdikbud - SIBI](https://pmpk.kemdikbud.go.id/sibi/). Setiap video merepresentasikan satu kata tertentu dalam Bahasa Isyarat Indonesia.
+## Dataset Description
+This dataset consists of videos sourced from the official site: [PMPK Kemdikbud - SIBI](https://pmpk.kemdikbud.go.id/sibi/). Each video represents a specific word in Indonesian Sign Language.
 
-### Struktur Dataset
-Dataset telah diorganisir ke dalam folder berdasarkan nama kata.
+### Dataset Structure
+The dataset is organized into folders based on the word names.
 
-### Detail Data
-- **Jumlah video**: 3362
-- **Format file**: `.webm`
-- **Bahasa isyarat**: Bahasa Isyarat Indonesia (SIBI)
+### Data Details
+- **Number of videos**: 3361
+- **File format**: `.webm`
+- **Sign language**: Indonesian Sign Language (SIBI)
 
-## Tujuan
-Dataset ini dapat digunakan untuk:
-- Penelitian pengenalan bahasa isyarat menggunakan machine learning.
-- Pengembangan aplikasi pembelajaran bahasa isyarat.
-- Analisis linguistik pada Bahasa Isyarat Indonesia.
+## Usage
+This dataset can be used for:
+- Research on sign language recognition using machine learning.
+- Development of sign language learning applications.
+- Linguistic analysis of Indonesian Sign Language.
 
-## Lisensi
-Dataset ini dilisensikan di bawah **MIT License**. 
+## License
+This dataset is licensed under the **MIT License**. 
 
-**Syarat**: Dataset ini boleh digunakan, disalin, dimodifikasi, dan didistribusikan tanpa batasan. Harap sertakan salinan lisensi ini saat menggunakan dataset.
+**Terms**: This dataset can be used, copied, modified, and distributed without restrictions. Please include a copy of this license when using the dataset.
 
-## Cara Mengunduh
-Dataset ini dapat diunduh langsung melalui repository ini. Gunakan perintah berikut untuk meng-clone repository:
+## How to Download
+This dataset can be downloaded directly from this repository. Use the following command to clone the repository:
 ```bash
 git clone https://github.com/RaffiArdhiN/SIBI-Words-Videos-Dataset.git
